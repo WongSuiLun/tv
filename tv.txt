@@ -463,7 +463,7 @@ GRTN文化频道,https://skype.serv00.net/itouch.php?id=gdwh
 香港,#genre#
 TVB翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
 TVB明珠台,http://120.236.57.77:9901/tsfile/live/1009_1.m3u8
-TV星河,http://120.236.57.77:9901/tsfile/live/1005_1.m3u8
+TVB星河,http://120.236.57.77:9901/tsfile/live/1005_1.m3u8
 
 无线新闻台,https://tvp22.sky4k.top/index1.php
 无线财经体育资讯台,https://tvp22.sky4k.top/index2.php
@@ -478,11 +478,11 @@ TV星河,http://120.236.57.77:9901/tsfile/live/1005_1.m3u8
 新时代电视2台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=90352
 TVB1,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153401
 TVB1,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153396
-TVB翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
-TVB翡翠台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153505
+TVB翡翠台(马来西亚),http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
+TVB翡翠台(马来西亚),http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153505
 TVB千禧经典,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571197
 TVB千禧经典,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153503
-TVB星河,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153506
+TVB星河(马来西亚),http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153506
 TVBe,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153398
 TVB娱乐新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153504
 TVB娱乐新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571188
